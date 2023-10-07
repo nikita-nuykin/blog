@@ -1,4 +1,4 @@
-title: Всё как у людей
+title: Мёртвая публичность
 bear_domain: nikita.bearblog.dev
 favicon: 🌿
 lang: ru
