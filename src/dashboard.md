@@ -17,4 +17,4 @@ ___
 ---
 
 Напиши мне:
-- [Telegram](https://t.me/NikitaNuykin)
+- [Telegram](https://t.me/sphinx_nose)
