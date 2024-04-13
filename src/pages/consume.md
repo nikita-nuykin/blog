@@ -4,10 +4,17 @@ is_page: true
 make_discoverable: true
 ___
 
+## Учеба
+
+| Дата | Название | Оценка |
+| --- | ---| --- |
+| 2024.04.13 | Mostly adequate guide to FP ([online](https://mostly-adequate.gitbook.io/mostly-adequate-guide), [github](https://github.com/MostlyAdequate/mostly-adequate-guide)) | 8/10 |
+
 ## Книги
 
 | Дата | Автор, название | Оценка |
 | --- | ---| --- |
+| 2024.04.03 | Дмитрий Глуховский "Будущее" | 7.5/10 |
 | 2024.01.27 | Айн Рэнд "Атлант расправил плечи" | 7/10 |
 | 2024.01.01 | Эдуард Лимонов "Это я — Эдичка" | 4/10 |
 | 2023.12.21 | Томас Чаморро-Премузик "Уверенность в себе" | 8.5/10 |
