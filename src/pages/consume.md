@@ -8,6 +8,7 @@ ___
 
 | Дата | Название | Оценка |
 | --- | ---| --- |
+| 2024.04.14 | [fp-ts Tutorial](https://www.youtube.com/playlist?list=PLUMXrUa_EuePN94nJ2hAui5nWDj8RO3lH) by MrFunctor | 9/10 |
 | 2024.04.14 | [Functional Programming with TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) by Sahand Javid | 9/10 |
 | 2024.04.13 | Mostly adequate guide to FP ([online](https://mostly-adequate.gitbook.io/mostly-adequate-guide), [github](https://github.com/MostlyAdequate/mostly-adequate-guide)) | 8/10 |
 
